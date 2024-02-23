@@ -7,7 +7,6 @@ Image Resizer is a simple Python script that allows you to resize images using t
 - Resize images to specified dimensions.
 - Supports various image formats including JPEG, PNG, etc.
 - Simple and easy-to-use command-line interface.
-# My Project
-![Example Image](Image-Resize/audi.jpg)
 
-This is a sample image for demonstration purposes.
+# Final Results
+![Size Results](size_results.png)
