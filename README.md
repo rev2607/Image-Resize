@@ -11,7 +11,7 @@ Image Resizer is a simple Python script that allows you to resize images using t
 
 ## Installation
 1. Clone the repository: https://github.com/rev2607/Image-Resize.git
-2. Navigate to the project directory: cd Image-Resizer
+2. Navigate to the project directory: cd Image-Resize
 3. Install the required dependencies: pip install opencv-python
 4. Replace the image in "yourImage.jpg": src = cv2.imread("yourImage.jpg", cv2.IMREAD_UNCHANGED)
 
